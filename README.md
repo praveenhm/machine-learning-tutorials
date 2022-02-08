@@ -2,7 +2,7 @@
 
 Comprehensive introduction to the field of Machine Learning
 
-## Categories of analysis
+#### Categories of analysis
  
 - Anomaly.detection
 	- doc
