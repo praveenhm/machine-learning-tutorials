@@ -26,6 +26,8 @@ Comprehensive introduction to the field of Machine Learning
 - clustering      
 - Dimensionality.reduction
 - Ensemble
+- Others
+	- [Variance R2](notebook/others-01-rss-variance-r2.ipynb)
 
 
 9: File
