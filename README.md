@@ -5,7 +5,7 @@ Comprehensive introduction to the field of Machine Learning
 ##### Categories of analysis
  
 - Regression
-	- file 2	
+	- [univariate-1](https://github.com/praveenhm/machine-learning-tutorials/blob/main/notebook/univariate-1.ipynb)	
 	 
 - classification  
 - clustering      
