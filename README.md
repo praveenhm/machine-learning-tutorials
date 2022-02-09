@@ -2,7 +2,7 @@
 
 Comprehensive introduction to the field of Machine Learning
 
-##### Categories of analysis
+##### Various Categories of Jupyter Notebooks:
 
 * Python
 	- [Common-import file](notebook/common-imports.ipynb)
@@ -20,6 +20,7 @@ Comprehensive introduction to the field of Machine Learning
 	- [dataset-4 analysis](notebook/regression-06-dataset-4.ipynb)
 	- [dataset-5 analysis](notebook/regression-07-dataset-5.ipynb)
 	- [Power Transformations](notebook/regression-08-power-transforms.ipynb	)
+	- [Pipeline](notebook/regression-09-pipeline.ipynb)
 	 
 	 
 - classification  
@@ -30,12 +31,7 @@ Comprehensive introduction to the field of Machine Learning
 	- [Variance R2](notebook/others-01-rss-variance-r2.ipynb)
 
 
-9: File
-10: File
-11: File
-Interactive Graph: Regularization with more dataFile
-12: RSS, Variance and R-squaredFile
-13: PipelineFile
+
 14: Nonlinear Least SquaresFile
 15: Old Faithful GeyserFile
 16: Gradient DescentFile
