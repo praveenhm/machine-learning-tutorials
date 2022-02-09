@@ -6,7 +6,7 @@ Comprehensive introduction to the field of Machine Learning
 
 * Python
 	- [Common-import file](notebook/common-imports.ipynb)
-	- [Python primer](notebook/python/pythonbasic.ipynb)
+	- [Python primer](notebook/python/pythonBasic.ipynb)
 	- [Python Classes](notebook/python/oop/object-oriented-python.ipynb)
 	- [Numpy Primer](notebook/python/numpy.ipynb)
 	- [Matplotlib primer](notebook/python/matplotlib.ipynb)
