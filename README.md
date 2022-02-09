@@ -4,18 +4,18 @@ Comprehensive introduction to the field of Machine Learning
 
 ##### Categories of analysis
 
-- Python
-	- [Common-import file]()
-	- Python primer
-	- Python Classes 
-	- Numpy Primer
-	- Matplotlib primer
-	- Correlation Interactive graphs 
+* Python
+	- [Common-import file](notebook/common-imports.ipynb)
+	- [Python primer](notebook/python/PythonWorkshop1.ipynb)
+	- [Python Classes](notebook/python/oop/object-oriented-python.ipynb)
+	- [Numpy Primer](notebook/python/numpy.ipynb)
+	- [Matplotlib primer](notebook/python/matplotlib.ipynb)
+	- [Correlation Interactive graphs](notebook/python/correlation/README.md)
 - Regression
 	- [Linear Regression with Univariate-1](notebook/univariate-1.ipynb)	
+	- [Polynomial regression with dataset-2]() 
 	
-	-[]() 
-	- 
+	 
 	 
 - classification  
 - clustering      
@@ -24,12 +24,7 @@ Comprehensive introduction to the field of Machine Learning
 
 
 
-0: Python PrimerFile
-1: Numpy PrimerFile
-2: Matplotlib primerFile
-3: Object Oriented Python: Classes and ObjectsFile
-Interactive graph showing various correlationsFile
-4: Linear Regression with Univariate-1 datasetFile
+
 5: Polynomial regression with dataset-2File
 6: Understanding the Runge phenomenonFile
 7: univariate-2 analysisFile
