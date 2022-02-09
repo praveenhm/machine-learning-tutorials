@@ -19,7 +19,7 @@ Comprehensive introduction to the field of Machine Learning
 	- [univariate-3 analysis](notebook/regression-05-univariate-3.ipynb)
 	- [dataset-4 analysis](notebook/regression-06-dataset-4.ipynb)
 	- [dataset-5 analysis](notebook/regression-07-dataset-5.ipynb)
-	- [Power Transformations](notebook/regression-08-power-transforms.ipynb)
+	- [Power Transformations](notebook/regression-08-power-transforms.ipynb	)
 	 
 	 
 - classification  
