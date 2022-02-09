@@ -6,14 +6,14 @@ Comprehensive introduction to the field of Machine Learning
 
 * Python
 	- [Common-import file](notebook/common-imports.ipynb)
-	- [Python primer](notebook/python/PythonWorkshop1.ipynb)
+	- [Python primer](notebook/python/pythonbasic.ipynb)
 	- [Python Classes](notebook/python/oop/object-oriented-python.ipynb)
 	- [Numpy Primer](notebook/python/numpy.ipynb)
 	- [Matplotlib primer](notebook/python/matplotlib.ipynb)
 	- [Correlation Interactive graphs](notebook/python/correlation/README.md)
 - Regression
-	- [Linear Regression with Univariate-1](notebook/univariate-1.ipynb)	
-	- [Polynomial regression with dataset-2]() 
+	- [Linear Regression with Univariate-1](notebook/regression-01-univariate-1.ipynb)	
+	- [Polynomial regression with dataset-2](notebook/regression-02-dataset-2.ipynb) 
 	
 	 
 	 
@@ -21,7 +21,6 @@ Comprehensive introduction to the field of Machine Learning
 - clustering      
 - Dimensionality.reduction
 - Ensemble
-
 
 
 
