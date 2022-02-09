@@ -14,8 +14,9 @@ Comprehensive introduction to the field of Machine Learning
 - Regression
 	- [Linear Regression with Univariate-1](notebook/regression-01-univariate-1.ipynb)	
 	- [Polynomial regression with dataset-2](notebook/regression-02-dataset-2.ipynb) 
-	- [Understanding the Runge phenomenon](notebook/regression-03-runge-phenomenon-dataset-3.ipynb)
-	-[univariate-2 analysis](notebook/regression-04-univariate-2.ipynb)
+	- [Understanding the Runge phenomenon](notebook/regression-03-runge-phenomenon-dataset-3.ipynb)	
+	- [univariate-2 analysis](notebook/regression-04-univariate-2.ipynb)	
+	- [univariate-3 analysis](notebook/regression-05-univariate-3.ipynb)
 	 
 	 
 - classification  
@@ -24,8 +25,7 @@ Comprehensive introduction to the field of Machine Learning
 - Ensemble
 
 
-7: univariate-2 analysisFile
-8: univariate-3 analysisFile
+8: File
 9: dataset-4 analysisFile
 10: dataset-5 analysisFile
 11: Power TransformationsFile
