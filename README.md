@@ -17,6 +17,7 @@ Comprehensive introduction to the field of Machine Learning
 	- [Understanding the Runge phenomenon](notebook/regression-03-runge-phenomenon-dataset-3.ipynb)	
 	- [univariate-2 analysis](notebook/regression-04-univariate-2.ipynb)	
 	- [univariate-3 analysis](notebook/regression-05-univariate-3.ipynb)
+	- [dataset-4 analysis](notebook/regression-06-dataset-4.ipynb)
 	 
 	 
 - classification  
@@ -25,8 +26,7 @@ Comprehensive introduction to the field of Machine Learning
 - Ensemble
 
 
-8: File
-9: dataset-4 analysisFile
+9: File
 10: dataset-5 analysisFile
 11: Power TransformationsFile
 Interactive Graph: Regularization with more dataFile
