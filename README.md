@@ -31,11 +31,12 @@ Comprehensive introduction to the field of Machine Learning
 - Ensemble
 - Others
 	- [Variance R2](notebook/others-01-rss-variance-r2.ipynb)
+	- [Gradient Descent](notebook/others-02-gradient-descent.ipynb)
 
 
 
 15: File
-16: Gradient DescentFile
+16: File
 17: Multivariate regression on the Auto datasetFile
 18: California housing prices with linear regressionFile
 19: Kayalvizhi's Murunga Leaves ProjectFile
