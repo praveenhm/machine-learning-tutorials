@@ -23,6 +23,7 @@ Comprehensive introduction to the field of Machine Learning
 	- [Pipeline](notebook/regression-09-pipeline.ipynb)
 	- [Nonlinear regression](notebook/regression-10-non-linear-regression.ipynb)
 	- [Old Faithful Geyser-real data](notebook/regression-11-old-faithful-geyser.ipynb)
+	- [Multivariate regression on the Auto dataset -real data](regression-12-auto-mpg.ipynb)
 	 
 	 
 - classification  
@@ -35,9 +36,6 @@ Comprehensive introduction to the field of Machine Learning
 
 
 
-15: File
-16: File
-17: Multivariate regression on the Auto datasetFile
 18: California housing prices with linear regressionFile
 19: Kayalvizhi's Murunga Leaves ProjectFile
 20: Diamond Dataset Analysis by Harini DatlaFile
