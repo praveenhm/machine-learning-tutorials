@@ -21,6 +21,7 @@ Comprehensive introduction to the field of Machine Learning
 	- [dataset-5 analysis](notebook/regression-07-dataset-5.ipynb)
 	- [Power Transformations](notebook/regression-08-power-transforms.ipynb	)
 	- [Pipeline](notebook/regression-09-pipeline.ipynb)
+	- [Nonlinear regression](notebook/regression-10-non-linear-regression.ipynb)
 	 
 	 
 - classification  
