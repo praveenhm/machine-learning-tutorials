@@ -22,6 +22,7 @@ Comprehensive introduction to the field of Machine Learning
 	- [Power Transformations](notebook/regression-08-power-transforms.ipynb	)
 	- [Pipeline](notebook/regression-09-pipeline.ipynb)
 	- [Nonlinear regression](notebook/regression-10-non-linear-regression.ipynb)
+	- [Old Faithful Geyser-real data](notebook/regression-11-old-faithful-geyser.ipynb)
 	 
 	 
 - classification  
@@ -33,8 +34,7 @@ Comprehensive introduction to the field of Machine Learning
 
 
 
-14: Nonlinear Least SquaresFile
-15: Old Faithful GeyserFile
+15: File
 16: Gradient DescentFile
 17: Multivariate regression on the Auto datasetFile
 18: California housing prices with linear regressionFile
