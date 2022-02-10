@@ -23,7 +23,7 @@ Comprehensive introduction to the field of Machine Learning
 	- [Pipeline](notebook/regression-09-pipeline.ipynb)
 	- [Nonlinear regression](notebook/regression-10-non-linear-regression.ipynb)
 	- [Old Faithful Geyser-real data](notebook/regression-11-old-faithful-geyser.ipynb)
-	- [Multivariate regression on the Auto dataset -real data](regression-12-auto-mpg.ipynb)
+	- [Multivariate regression on the Auto dataset -real data](notebook/regression-12-auto-mpg.ipynb)
 	 
 	 
 - classification  
