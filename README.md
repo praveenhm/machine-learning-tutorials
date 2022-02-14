@@ -24,6 +24,7 @@ Comprehensive introduction to the field of Machine Learning
 	- [Nonlinear regression](notebook/regression-10-non-linear-regression.ipynb)
 	- [Old Faithful Geyser-real data](notebook/regression-11-old-faithful-geyser.ipynb)
 	- [Multivariate regression on the Auto dataset -real data](notebook/regression-12-auto-mpg.ipynb)
+	- [Califonia housing](notebook/regression-13-california-housing.ipynb)
 	 
 	 
 - classification  
