@@ -30,8 +30,8 @@ Comprehensive introduction to the field of Machine Learning
 	 
 	 
 - classification
-	- [Classifies-01](notebook/classifier/classifier-01-classifier-1.ipynb)
-	- []()
+	- [Classifier-01](notebook/classifier/classifier-01-classifier-1.ipynb)
+	- [Classifier-02](notebook/classifier/classifier-02-classifier-2.ipynb)
 	
 	
 - clustering      
@@ -43,7 +43,6 @@ Comprehensive introduction to the field of Machine Learning
 
 
 
-21: Classifier-1 datasetFile
 22: Classifier-2 datasetFile
 23: Classifier-3 datasetFile
 24: Florence Nightingale's Two rosesFile
