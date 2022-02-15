@@ -38,6 +38,9 @@ Comprehensive introduction to the field of Machine Learning
 	
 	
 - clustering      
+	- [Old Faithful Geyser k-means](notebook/cluster/old-faithful-geyser-kmeans.ipynb)
+
+	 
 - Dimensionality.reduction
 - Ensemble
 - Others
@@ -46,8 +49,7 @@ Comprehensive introduction to the field of Machine Learning
 
 
 
-25: File
-26: k-means clustering of the Old Faithful Geyser datasetFile
+26:  datasetFile
 27: DBSCAN common utilitiesFile
 28: DBSCAN sensitivity to hyperparametersFile
 29: DBSCAN clustering of the Old Faithful Geyser datasetFile
