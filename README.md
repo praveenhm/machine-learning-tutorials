@@ -39,6 +39,8 @@ Comprehensive introduction to the field of Machine Learning
 	
 - clustering      
 	- [Old Faithful Geyser k-means](notebook/cluster/old-faithful-geyser-kmeans.ipynb)
+	- [DBscan-common](notebook/cluster/dbscan_common.ipynb)
+	- [DBSCAN sensitivity to hyperparameters](notebook/cluster/dbscan_hyperparameters.ipynb)
 
 	 
 - Dimensionality.reduction
@@ -49,9 +51,7 @@ Comprehensive introduction to the field of Machine Learning
 
 
 
-26:  datasetFile
-27: DBSCAN common utilitiesFile
-28: DBSCAN sensitivity to hyperparametersFile
+28: File
 29: DBSCAN clustering of the Old Faithful Geyser datasetFile
 30: DBSCAN on the blobs datasetFile
 31: k-means on the blobs datasetFile
