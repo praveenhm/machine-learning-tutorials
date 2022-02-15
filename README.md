@@ -25,6 +25,7 @@ Comprehensive introduction to the field of Machine Learning
 	- [Old Faithful Geyser-real data](notebook/regression-11-old-faithful-geyser.ipynb)
 	- [Multivariate regression on the Auto dataset -real data](notebook/regression-12-auto-mpg.ipynb)
 	- [Califonia housing](notebook/regression-13-california-housing.ipynb)
+	- [Murunga Leaves Project](notebook/regression-14-moringa-leaf.ipynb)
 	 
 	 
 - classification  
@@ -37,8 +38,6 @@ Comprehensive introduction to the field of Machine Learning
 
 
 
-18: California housing prices with linear regressionFile
-19: Kayalvizhi's Murunga Leaves ProjectFile
 20: Diamond Dataset Analysis by Harini DatlaFile
 21: Classifier-1 datasetFile
 22: Classifier-2 datasetFile
