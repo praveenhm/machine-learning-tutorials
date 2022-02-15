@@ -44,6 +44,7 @@ Comprehensive introduction to the field of Machine Learning
 	- [Old Faithful Geyser DBSCAN](notebook/cluster/old-faithful-geyser-dbscan.ipynb)
 	- [blobs using DBSCAN](notebook/cluster/blobs-dbscan.ipynb) 
 	- [blobs using k-means](notebook/cluster/blobs-kmeans.ipynb)
+	- [Smiley using DBSCAN](notebook/cluster/smiley-dbscan.ipynb)
 
 	 
 - Dimensionality.reduction
@@ -55,7 +56,7 @@ Comprehensive introduction to the field of Machine Learning
 
 
 30:  datasetFile
-31: k-means on the blobs datasetFile
+31:  datasetFile
 32: DBSCAN on the Smiley datasetFile
 33: k-means on the Smiley datasetFile
 34: Tidy DataFile
