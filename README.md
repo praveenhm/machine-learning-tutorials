@@ -34,6 +34,7 @@ Comprehensive introduction to the field of Machine Learning
 	- [Classifier-02](notebook/classifier/classifier-02-classifier-2.ipynb)
 	- [Classifier-03](notebook/classifier/classifier-03-classifier-3.ipynb)
 	- [Nightingale](notebook/classifier/classifier-04-nightingale.ipynb)
+	- [Wisconsin breast cancer with logistic classifier](notebook/classifier/classifier-05-breast-cancer.ipynb)
 	
 	
 - clustering      
@@ -45,10 +46,7 @@ Comprehensive introduction to the field of Machine Learning
 
 
 
-22: Classifier-2 datasetFile
-23: Classifier-3 datasetFile
-24: Florence Nightingale's Two rosesFile
-25: Wisconsin diagnostic breast cancer with logistic classifierFile
+25: File
 26: k-means clustering of the Old Faithful Geyser datasetFile
 27: DBSCAN common utilitiesFile
 28: DBSCAN sensitivity to hyperparametersFile
