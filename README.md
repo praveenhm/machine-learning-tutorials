@@ -42,7 +42,8 @@ Comprehensive introduction to the field of Machine Learning
 	- [DBscan-common](notebook/cluster/dbscan_common.ipynb)
 	- [DBSCAN sensitivity to hyperparameters](notebook/cluster/dbscan_hyperparameters.ipynb)
 	- [Old Faithful Geyser DBSCAN](notebook/cluster/old-faithful-geyser-dbscan.ipynb)
-	- [DBSCAN on the blobs](notebook/cluster/blobs-dbscan.ipynb) 
+	- [blobs using DBSCAN](notebook/cluster/blobs-dbscan.ipynb) 
+	- [blobs using k-means](notebook/cluster/blobs-kmeans.ipynb)
 
 	 
 - Dimensionality.reduction
