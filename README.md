@@ -29,7 +29,11 @@ Comprehensive introduction to the field of Machine Learning
 	- [Diamond dataset](notebook/regression-15-diamond.ipynb)
 	 
 	 
-- classification  
+- classification
+	- [Classifies-01](notebook/classifier/classifier-01-classifier-1.ipynb)
+	- []()
+	
+	
 - clustering      
 - Dimensionality.reduction
 - Ensemble
