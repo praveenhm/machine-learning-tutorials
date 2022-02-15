@@ -32,6 +32,7 @@ Comprehensive introduction to the field of Machine Learning
 - classification
 	- [Classifier-01](notebook/classifier/classifier-01-classifier-1.ipynb)
 	- [Classifier-02](notebook/classifier/classifier-02-classifier-2.ipynb)
+	- [Classifier-03](notebook/classifier/classifier-03-classifier-3.ipynb)
 	
 	
 - clustering      
