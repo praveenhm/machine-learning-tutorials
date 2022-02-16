@@ -45,6 +45,7 @@ Comprehensive introduction to the field of Machine Learning
 	- [blobs using DBSCAN](notebook/cluster/blobs-dbscan.ipynb) 
 	- [blobs using k-means](notebook/cluster/blobs-kmeans.ipynb)
 	- [Smiley using DBSCAN](notebook/cluster/smiley-dbscan.ipynb)
+	- [Smiley using k-means](notebook/cluster/smiley-kmeans.ipynb)
 
 	 
 - Dimensionality.reduction
@@ -55,10 +56,7 @@ Comprehensive introduction to the field of Machine Learning
 
 
 
-30:  datasetFile
-31:  datasetFile
-32: DBSCAN on the Smiley datasetFile
-33: k-means on the Smiley datasetFile
+33:  datasetFile
 34: Tidy DataFile
 35: Wine source classificationFile
 36: Decision Tree, Random Forest and Support Vector MachinesFolder The California housing dataset modeled with decision tree, random-forest and support-vector machine
