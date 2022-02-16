@@ -53,11 +53,12 @@ Comprehensive introduction to the field of Machine Learning
 - Others
 	- [Variance R2](notebook/others-01-rss-variance-r2.ipynb)
 	- [Gradient Descent](notebook/others-02-gradient-descent.ipynb)
+	- [Tidy Data](notebook/python/tidy-data-with-pandas.ipynb)
 
 
 
 33:  datasetFile
-34: Tidy DataFile
+34: File
 35: Wine source classificationFile
 36: Decision Tree, Random Forest and Support Vector MachinesFolder The California housing dataset modeled with decision tree, random-forest and support-vector machine
 37: Density EstimatorsFile
