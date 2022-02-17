@@ -35,13 +35,14 @@ Comprehensive introduction to the field of Machine Learning
 	- [Classifier-03](notebook/classifier/classifier-03-classifier-3.ipynb)
 	- [Nightingale](notebook/classifier/classifier-04-nightingale.ipynb)
 	- [Wisconsin breast cancer with logistic classifier](notebook/classifier/classifier-05-breast-cancer.ipynb)
+	- [Wine source](notebook/classifier/classifier-06-wine-source.ipynb)
 	
 	
-- clustering      
+- clustering
+	- [Commons-imports-DBscan](notebook/cluster/dbscan_common.ipynb) 
+	- [DBSCAN sensitivity to hyperparameters](notebook/cluster/dbscan_hyperparameters.ipynb)	
+	- [Old Faithful Geyser DBSCAN](notebook/cluster/old-faithful-geyser-dbscan.ipynb)     
 	- [Old Faithful Geyser k-means](notebook/cluster/old-faithful-geyser-kmeans.ipynb)
-	- [DBscan-common](notebook/cluster/dbscan_common.ipynb)
-	- [DBSCAN sensitivity to hyperparameters](notebook/cluster/dbscan_hyperparameters.ipynb)
-	- [Old Faithful Geyser DBSCAN](notebook/cluster/old-faithful-geyser-dbscan.ipynb)
 	- [blobs using DBSCAN](notebook/cluster/blobs-dbscan.ipynb) 
 	- [blobs using k-means](notebook/cluster/blobs-kmeans.ipynb)
 	- [Smiley using DBSCAN](notebook/cluster/smiley-dbscan.ipynb)
@@ -57,8 +58,6 @@ Comprehensive introduction to the field of Machine Learning
 
 
 
-33:  datasetFile
-34: File
 35: Wine source classificationFile
 36: Decision Tree, Random Forest and Support Vector MachinesFolder The California housing dataset modeled with decision tree, random-forest and support-vector machine
 37: Density EstimatorsFile
