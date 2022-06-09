@@ -59,5 +59,7 @@ Comprehensive introduction to the field of Machine Learning
 
 
 35: Wine source classificationFile
+
 36: Decision Tree, Random Forest and Support Vector MachinesFolder The California housing dataset modeled with decision tree, random-forest and support-vector machine
+
 37: Density EstimatorsFile
