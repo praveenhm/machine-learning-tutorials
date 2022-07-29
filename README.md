@@ -1,6 +1,6 @@
 # Machine-Learning-Tutorials
 
-Comprehensive introduction to the field of Machine Learning
+Comprehensive introduction to the field of great Machine Learning
 
 ##### Various Categories of Jupyter Notebooks:
 
